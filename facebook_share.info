@@ -1,0 +1,5 @@
+name = Facebook Share
+description = Displays a Facebook share-button after every post
+package = Custom module
+core = 7.x
+files[] = facebook.module
